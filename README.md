@@ -52,3 +52,4 @@ The dashboard provides clear and actionable insights into sales, profits, and pr
 - **DAX Proficiency:** Mastered complex DAX calculations for dynamic business insights.  
 - **Interactive Design:** Developed user-centric dashboards with an emphasis on interactivity and usability.  
 - **Automation & Security:** Learned to automate data refresh and implement security features like RLS.
+  
