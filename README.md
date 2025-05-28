@@ -16,7 +16,7 @@ Create an interactive, user-friendly dashboard for XGRIP, a company specializing
 ## **Action**  
 
 ### **Key Features**  
-- **Data Integration:** Unified data from PostgreSQL, MySQL, Excel, CSV, and PDF formats.  
+- **Data Integration:** Unified data from MySQL, Excel, CSV, and PDF formats.  
 - **Currency Standardization:** Converted diverse currencies to USD for consistency across regions.  
 - **Profitability Analysis:** Incorporated COGS, discounts, and quantities for accurate profit metrics.  
 - **Interactive Dashboards:** Added slicers, custom panes, and drillthrough buttons for in-depth analysis.  
@@ -31,7 +31,7 @@ Create an interactive, user-friendly dashboard for XGRIP, a company specializing
 
 ### **Execution Steps**  
 
-1. **Data Integration:** Connected to various sources (PostgreSQL, MySQL, Excel, CSV, and PDFs) for a comprehensive dataset.  
+1. **Data Integration:** Connected to various sources (MySQL, Excel, CSV, and PDFs) for a comprehensive dataset.  
 2. **Data Standardization:** Converted local currencies to USD using exchange rates for consistent reporting.  
 3. **Data Modeling:** Established relationships between tables, merged product data, and calculated profitability.  
 4. **Dashboard Design:** Developed interactive dashboards with multiple pages and visualizations like donut charts, bar charts, and maps.  
